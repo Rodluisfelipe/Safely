@@ -7583,3 +7583,6 @@ body.dark-mode.rtl-mode .notification-dialog.android-style .notification-footer 
   border-right: 0;
   border-left-color: #2d1f3b;
 }
+.loading-icon{
+  color: #fff !important;
+}
